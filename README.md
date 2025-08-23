@@ -19,9 +19,14 @@
 </div>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=McShinyShoe&show_icons=true&theme=github_dark&hide_border=true&layout=compact)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=McShinyShoe&show_icons=true&theme=github_dark&hide_border=true&layout=compact"/>
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=McShinyShoe&theme=github_dark&hide_border=true&layout=compact)
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McShinyShoe&theme=github_dark&hide_border=true&layout=compact"/>
+</div>
 
 <h3 align="center">Languages</h3>
 <div align="center">
