@@ -12,6 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=McShinyShoe&label=Profile%20Views&color=green">
     <img src="https://img.shields.io/website?url=https%3A%2F%2Fshinyshoe.net&label=Website%20Status">
 </div>
+<img align="center" src="./img/me.gif">
 <br>
 
 <div align="center">
